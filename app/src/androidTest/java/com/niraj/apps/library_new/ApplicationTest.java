@@ -1,4 +1,4 @@
-package com.niraj.apps.materialdemo;
+package com.niraj.apps.library_new;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

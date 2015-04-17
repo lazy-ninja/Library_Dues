@@ -1,12 +1,10 @@
-package com.niraj.apps.materialdemo;
+package com.niraj.apps.library_new;
 
 /**
  * Created by niraj on 11/04/2015.
  */
-import android.app.Activity;
 import android.content.Context;
 import android.util.Log;
-import android.widget.Toast;
 
 import static xdroid.toaster.Toaster.toast;
 import static xdroid.toaster.Toaster.toastLong;
@@ -17,11 +15,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.net.InetAddress;
-import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.List;
 
