@@ -7,7 +7,6 @@ import android.content.Context;
 import android.util.Log;
 
 import static xdroid.toaster.Toaster.toast;
-import static xdroid.toaster.Toaster.toastLong;
 import com.github.kevinsawicki.http.HttpRequest;
 
 import org.jsoup.Jsoup;
